@@ -1,0 +1,14 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 704: expected statement.
+    "INT". SCENE5 - 智能社区李劼仁房间 - 客厅
+                                  ^
+
+File "game/script.rpy", line 1185: expected statement.
+    hdie Jinbo_normal
+                     ^
+
+Ren'Py Version: Ren'Py 8.0.3.22090809
+Wed Dec  7 16:00:12 2022
