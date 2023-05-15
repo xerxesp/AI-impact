@@ -26,9 +26,3 @@
 6. 新增第十九章，添加李劼仁与父女之间的对话，与林学文的对话，最终在婷的指引下烧了莫利泄愤。
 7. 新增第二十章，K 攻入人类政府，逼迫金连殊卸任，并攻击人类供电厂。
 updating script
-following：
-    first
-    sec
-    thr
-    frth
-    fifth
