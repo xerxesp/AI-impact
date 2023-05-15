@@ -28,3 +28,6 @@
 updating script
 following：
     first
+    sec
+    thr
+    
