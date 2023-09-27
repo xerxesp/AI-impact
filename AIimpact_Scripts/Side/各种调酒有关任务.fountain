@@ -1,0 +1,95 @@
+工业区、自主地、郊区、智能区-行政中心&住宅、智能区——富人、非智能区
+
+*关于鸡尾酒小支线*
+（简化）参与鸡尾酒小游戏的调配动画以及调酒师调酒动画可以从简一致（所有东西捣一捣）
+（复杂化）每一种酒的调配动作都有不同动画呈现
+每一个酒吧的小游戏可不同（有待思考）
+
+【自主地调鸡尾酒任务】
+
+*设定*
+酒吧名：Glass Pool
+自主地无调酒师，有AI自己研发的“自动调酒杯（暂定名字为：Glass Ai-mal/Animal）”团队，外形为经典的小机器人杯子形象（参考Cuphead、电子桌面宠物EMO）。
+选择饮品时，“自动调酒杯”的脸部表情会变成菜单。
+“自动调酒杯”会根据顾客需要的饮料自动变换成所需要的杯型、并且自动找寻需要填充的材料。
+
+*互动小游戏*
+@Glass Ai-mal
+Hihi，我是杯子服务生。请问今天的您需要饮品吗？
+
+@玩家^
+是的。
+
+@Glass Ai-mal
+收到收到。请根据菜单选择：
+-Artificial Moon（含酒精）
+—Bang Bang Earth（含酒精）
+—Electric Sheep（不酒精）
+
+@玩家^
+不需要。
+
+@Glass Ai-mal
+那么请问您想要：A.参与调酒游戏 B.坐着休息
+
+@玩家^
+A.
+
+@Glass Ai-mal
+请在五秒钟内记住以下搭配，并调出饮品。
+（随即显示饮品和其配剂）
+
+玩家需要独立在一群障眼法的调品中调制饮品。完成后，机器人会扫描检查完成度。完成度100%可得到Glass Bar荧光贴纸，玩家可装饰在自己的武器或者背包上。
+
+*番外*
+李劼仁等人逃脱自主地后，名为Rebel Rebel的新酒品会上线。
+
+*酒品*
+【Artificial Moon】蓝色状
+Gin 45ml 
+Violet Liqueur 8ml 
+Lemon Juice 15ml
+
+【Bang Bang Earth】（原型为“纽约酸”）棕黄色状
+Bourbon Whisky 45ml
+Dry Red Wine 15ml
+Lemon Jucie 25ml
+Syrup 10ml
+Egg White
+
+【Electric Sheep】色调类似莫吉托
+黄瓜捣碎
+mint 若干
+Lime Juice 60ml
+Soda 120ml
+
+*【Rebel Rebel】（原型为“血腥玛丽”）红色状
+Vodka 45ml
+Tomato Juice 120ml
+Lemon Juice 15ml
+Smoked Paprika 1pinch
+Black Pepper 1pinch
+Salt 1pinch
+
+
+
+【工业区酒吧】
+Jade 特调？ （吴积玉任务完成后）
+*设定*
+酒吧名：Iron Tongue
+
+
+【郊区酒吧】
+Yuki特调 （魔术师任务完成后）
+*设定*
+酒吧名：Country Homage
+
+【智能区——行政】
+*设定*
+酒吧名：Welcome to the Machine
+
+【智能区——富人】
+*设定*
+酒吧名：Whisky In The Diamond
+【非智能区酒吧】
+*酒吧街* 各种酒吧
