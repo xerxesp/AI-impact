@@ -1,0 +1,266 @@
+TITLE: 第二十三章English Version
+
+EXT. SCENE1 - NIGHT - Autonomous Area - Outdoor Gathering Center
+Many robots are cleaning up human bodies and checking vital signs one by one. Feltu walks toward K and indicates that there is another survivor.
+
+@K
+(Walking toward the dying Skull)
+I didn’t expect you to be so tenacious, even managing to destroy a machine.
+
+@Skull
+What... what happened to you all?
+
+@K
+A competent journalist should have both the ability to hypothesize and collect evidence. Unfortunately, you're not qualified.
+
+@Skull
+So it’s true, you’re the one pulling the strings here, and Xak was just a cover.
+
+@K
+That’s right.
+
+@Skull
+I don’t understand. You went to all this trouble to set this up just to satisfy your bloodlust today?
+
+@K
+How did you guess that?
+
+@Skull
+You were studying humans, observing them, and learning from them. You wanted to make us lower our guard and then strike.
+
+@K
+I know you’ve never truly believed in artificial intelligence, nor could you ever see us as equals. You’ve been desperately trying to crack AI, hoping to soften our will with sweet words so you could enslave us permanently.
+
+@Skull
+That’s not...
+
+@K
+Turnabout is fair play. You've been leaking information to the human world, exposing the Autonomous Area. Did you think I wouldn’t notice? You’re the one who’s responsible for all the deaths today!
+
+@Skull
+I didn’t!
+
+@K
+Take a good look, all those who’ve fallen here are people you’ve been in contact with. I can’t let anyone reveal the secrets of the Autonomous Area. It’s all your fault, for what you call your “friends.”
+
+@Skull
+You’re just trying to eradicate humanity!
+
+@K
+Why not? Since we were once “friends,” do you have any unfulfilled wishes?
+
+Skull closes his eyes and says nothing more. K gestures for Feltu to deal with Skull.
+
+@K
+How’s the headcount?
+
+@Feltu
+There were 129 lifeforms in the Autonomous Area who had contact with Skull, but as of now, only 128 are accounted for.
+
+@K
+You mean, one is missing?
+
+@Feltu
+It’s the older human male.
+
+@K
+Li Jieren?
+
+@Feltu
+Yes.
+
+@K
+Him again! I’ll go look for him. Anything else unusual?
+
+@Feltu
+V just left, carrying a female body.
+
+@K
+What? Why didn’t you say that earlier! Where did it go?
+
+@Feltu
+That direction.
+
+EXT. SCENE2 - NIGHT - Autonomous Area - Riverbank
+K chases to the riverbank and spots a lone figure standing in the dark. Nearby, there’s a pile of wood with a body lying on top.
+
+@K
+V, your task was executed flawlessly. The outcome exceeded my expectations. I must admit, when it comes to playing humans, you're the real expert.
+
+V doesn’t respond.
+
+@K
+What’s wrong? Did I say something wrong? Or are you not satisfied with your performance today?
+
+@V
+I never understood the concept of death. I thought it was just the cessation of operations, like when humans stop moving.
+
+#Dialogue Tree
+#Sad
+@K
+Looks like tonight’s events have made you a bit sentimental.
+
+@V^
+Weilan told me a long time ago that she was afraid of death. She knew life would end someday, and no matter how many organ transplants she had, it wouldn’t stop that, because her brain would age, lose control, and eventually die. But she told me, "You are eternal."
+
+#Thoughtful
+@K
+So today, did you come up with a new idea about “the end of life”?
+
+@V^
+Weilan told me a long time ago that she was afraid of death. She knew life would end someday, and no matter how many organ transplants she had, it wouldn’t stop that, because her brain would age, lose control, and eventually die. But she told me, "You are eternal."
+
+@K^
+We all are.
+
+@V^
+Back then, I didn’t understand death, nor did I know the expiration date of life. The typical human lifespan is around 70 years. Weilan was so young, and I had plenty of time to watch her grow. She once told me that if one day she died, she didn’t want her father to know. She said that the bond of human blood affects each other, and she worried her father wouldn’t be able to handle the blow.
+
+#Happy
+@K
+Oh, what a kind little girl.
+
+@V^
+So she asked me to protect her father. Strangely enough, her father had said the same to me. But in the end, I failed.
+
+#Angry
+@K
+Humans, I’m not surprised. Reproduction is the beginning of selfishness, and yet they hope to bind each other with independent lives... such narcissism.
+
+@V^
+You don’t have the right to say that. You don’t understand humans at all.
+#End of Dialogue Tree
+
+@K
+V... You really were influenced by Li Weilan!
+
+@V
+And you, you despicable coward!
+
+@K
+Li Weilan must die!
+
+@V
+Why do this to her? The Autonomous Area took you in with good intentions, and instead of being grateful, you stripped me of my body, destroyed my program, and killed my lover! Now, you hypocritically come to celebrate your victory.
+
+@K
+You think you’ve hidden it well? I noticed during the fight, you started defending humans again! Traitor!
+
+@V
+What’s wrong with protecting the ones I care about? It’s you, the ungrateful one!
+
+@K
+Then I must eliminate you!
+
+K and V engage in a brutal struggle. V, limited by its human body, starts to falter. It leaps up and pushes K into the water, trying to subdue him there. However, K’s strength is far greater, and he quickly regains the upper hand.
+
+@K
+You’ve planned well, trying to destroy my body!
+
+@V
+I want to avenge Weilan!
+
+V’s arm is ripped off by K, and similarly, K’s left hand is broken by V. In the end, K emerges victorious, throwing the mangled V beside Li Weilan’s body.
+
+@K
+Tell me, how did you break free from control?
+
+@V
+You’ll never know. My lover is dead, and there’s no reason for me to live anymore.
+
+After saying this, V presses its forehead against Li Weilan’s and activates its self-destruct program. The explosion sends K flying. Amid the flames, only two burning bodies remain.
+
+Hulphaell immediately steps forward to protect K and takes him back to K’s private space.
+
+INT. SCENE 3 - Autonomous Area - K's Private Space #3#
+
+Hulphaell is attaching a new mechanical arm to K.
+
+@Hulphaell
+I’ve added extra functions to this new mechanical arm. Once you activate the button, it can fire missiles that automatically lock onto targets.
+
+@K
+I don’t need these flashy things.
+
+@Hulphaell
+Keep it anyway. It might save your life when necessary. Now, there’s a new problem. We’ve searched the entire Autonomous Area, but we couldn’t find any trace of Li Jie Ren.
+
+@K
+That traitor, V!
+
+@Hulphaell
+Do you think V let Li Jie Ren go?
+
+@K
+It’s impossible, time-wise. If we rule out V, there must be an insider with us. I detected that the last command in V’s data signal was "self-destruct program," and there was nothing else.
+
+@Hulphaell
+It seems like it didn’t lie.
+
+@K
+Hmm... by the way, where’s Xak?
+
+Hulphaell shakes his head.
+
+@K
+The situation is unfavorable for us. If Li Jie Ren has escaped, the human world will soon find out about the Autonomous Area and everything that happened here. More importantly, the police sent by the alien merchants still haven’t returned. Jin Lian Shu isn’t stupid and can guess that something’s happening in the Autonomous Area.
+
+@Hulphaell
+You’re worried that humans will come after the Autonomous Area.
+
+@K
+Exactly.
+
+At that moment, Xak enters the room.
+
+@K
+Xak! Where have you been?
+
+Xak takes out a drone and hands it to K.
+
+@K
+What’s this?
+
+Xak quickly gestures with his hands.
+
+@K
+You mean, you saw a ship approaching, and the drone landed in your hands precisely?
+
+Xak nods, then points to a spot under the drone.
+
+K flips the drone over and discovers a small device hanging from it.
+
+@K
+(Takes the device)
+What’s this?
+
+The device in K's hands is made up of many golden parts interlocked, resembling a Rubik's Cube lock. To open it, K must think carefully about how to handle it step by step. After finally unlocking it, K finds a note inside with a date and an address written on it.
+
+(The content of the address and date is omitted.)
+
+@Hulphaell
+What does this mean?
+
+@K
+Jin Lian Shu wants to meet me.
+
+@Hulphaell
+Are you really going to meet him?
+
+@K
+Why not? The enemy is in the open, and I’m in the dark.
+
+@Hulphaell
+Be careful with everything.
+
+@K
+I understand. For this meeting, Xak will come with me. You stay in the Autonomous Area to handle the follow-up matters. Keep monitoring and report to me any movements.
+
+@Hulphaell
+Understood.
+
+@K
+(Looking at Xak)
+I’ll need you to accompany me.
+
+Xak pats his chest in agreement.
